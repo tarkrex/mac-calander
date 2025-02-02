@@ -1,2 +1,2 @@
-# mac-calander
+# max-calander
 this is a  calender app
